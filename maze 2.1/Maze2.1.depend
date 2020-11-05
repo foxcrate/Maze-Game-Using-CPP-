@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1483076435 source:c:\users\hp\desktop\maze 2.1\maze 2.1\agent.cpp
+	"agent.h"
+
+1483076435 c:\users\hp\desktop\maze 2.1\maze 2.1\agent.h
+	<iostream>
+
+1483122124 c:\users\hp\desktop\maze 2.1\maze 2.1\room.h
+	<iostream>
+	"agent.h"
+	"prop.h"
+	"keyobject.h"
+	<map>
+
+1483076435 c:\users\hp\desktop\maze 2.1\maze 2.1\object.h
+	<string>
+
+1482677985 source:c:\users\hp\desktop\maze 2.1\maze 2.1\furniture.cpp
+	"furniture.h"
+	<iostream>
+	"room.h"
+	"object.h"
+
+1482678023 c:\users\hp\desktop\maze 2.1\maze 2.1\furniture.h
+	<string>
+	"object.h"
+	"room.h"
+
+1483076435 source:c:\users\hp\desktop\maze 2.1\maze 2.1\grue.cpp
+	"grue.h"
+	<iostream>
+	<cstdlib>
+	"room.h"
+
+1482634689 c:\users\hp\desktop\maze 2.1\maze 2.1\grue.h
+	"agent.h"
+	"room.h"
+
+1483076435 source:c:\users\hp\desktop\maze 2.1\maze 2.1\keyobject.cpp
+	"keyobject.h"
+	"object.h"
+	"room.h"
+	<iostream>
+
+1483076435 c:\users\hp\desktop\maze 2.1\maze 2.1\keyobject.h
+	<string>
+	"object.h"
+	"room.h"
+
+1483076475 source:c:\users\hp\desktop\maze 2.1\maze 2.1\main.cpp
+	"room.h"
+	"agent.h"
+	"grue.h"
+	"player.h"
+	"object.h"
+	"prop.h"
+	"keyobject.h"
+	<bits/stdc++.h>
+	<string>
+
+1483076435 c:\users\hp\desktop\maze 2.1\maze 2.1\player.h
+	"agent.h"
+	"prop.h"
+	"keyobject.h"
+	<vector>
+
+1483076435 source:c:\users\hp\desktop\maze 2.1\maze 2.1\object.cpp
+	"object.h"
+	<iostream>
+
+1483076435 source:c:\users\hp\desktop\maze 2.1\maze 2.1\player.cpp
+	"player.h"
+	<iostream>
+	<string.h>
+	<cstdlib>
+
+1483076435 source:c:\users\hp\desktop\maze 2.1\maze 2.1\prop.cpp
+	"prop.h"
+	<iostream>
+	<string>
+
+1483076435 c:\users\hp\desktop\maze 2.1\maze 2.1\prop.h
+	<string>
+	"object.h"
+	"room.h"
+
+1483066938 source:c:\users\hp\desktop\maze 2.1\maze 2.1\room.cpp
+	"room.h"
+	<cstdlib>
+

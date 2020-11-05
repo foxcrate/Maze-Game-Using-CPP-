@@ -1,0 +1,221 @@
+# depslib dependency file v1.0
+1481647786 source:e:\fci\programming labs\maze2\agent.cpp
+	"agent.h"
+
+1481647234 e:\fci\programming labs\maze2\agent.h
+	"room.h"
+
+1481656154 e:\fci\programming labs\maze2\room.h
+	<string>
+	"agent.h"
+
+1481659977 source:e:\fci\programming labs\maze2\grue.cpp
+	"grue.h"
+	<iostream>
+	<cstdlib>
+
+1481647108 e:\fci\programming labs\maze2\grue.h
+	"agent.h"
+
+1481659763 source:e:\fci\programming labs\maze2\main.cpp
+	"room.h"
+	"agent.h"
+	"grue.h"
+	"player.h"
+	<bits/stdc++.h>
+	<string>
+
+1481658324 source:e:\fci\programming labs\maze2\player.cpp
+	"player.h"
+	<iostream>
+
+1481647108 e:\fci\programming labs\maze2\player.h
+	"agent.h"
+
+1481660694 source:e:\fci\programming labs\maze2\room.cpp
+	"room.h"
+	<iostream>
+
+1481647786 source:e:\fci\programming labs\maze part 2 (20140046)\agent.cpp
+	"agent.h"
+
+1481647234 e:\fci\programming labs\maze part 2 (20140046)\agent.h
+	"room.h"
+
+1481656154 e:\fci\programming labs\maze part 2 (20140046)\room.h
+	<string>
+	"agent.h"
+
+1481659977 source:e:\fci\programming labs\maze part 2 (20140046)\grue.cpp
+	"grue.h"
+	<iostream>
+	<cstdlib>
+
+1481647108 e:\fci\programming labs\maze part 2 (20140046)\grue.h
+	"agent.h"
+
+1481661345 source:e:\fci\programming labs\maze part 2 (20140046)\player.cpp
+	"player.h"
+	<iostream>
+
+1481647108 e:\fci\programming labs\maze part 2 (20140046)\player.h
+	"agent.h"
+
+1481660694 source:e:\fci\programming labs\maze part 2 (20140046)\room.cpp
+	"room.h"
+	<iostream>
+
+1481692237 source:e:\fci\programming labs\maze part 2 (20140046)\main.cpp
+	"room.h"
+	"agent.h"
+	"grue.h"
+	"player.h"
+	<bits/stdc++.h>
+	<string>
+
+1481647786 source:e:\fci\programming labs\maze part 2 (id-20140046)\agent.cpp
+	"agent.h"
+
+1481647234 e:\fci\programming labs\maze part 2 (id-20140046)\agent.h
+	"room.h"
+
+1482112913 e:\fci\programming labs\maze part 2 (id-20140046)\room.h
+	<string>
+	"agent.h"
+	"object.h"
+
+1481733963 source:e:\fci\programming labs\maze part 2 (id-20140046)\grue.cpp
+	"grue.h"
+	<iostream>
+	<cstdlib>
+
+1482060855 e:\fci\programming labs\maze part 2 (id-20140046)\grue.h
+	"agent.h"
+
+1481661345 source:e:\fci\programming labs\maze part 2 (id-20140046)\player.cpp
+	"player.h"
+	<iostream>
+
+1481647108 e:\fci\programming labs\maze part 2 (id-20140046)\player.h
+	"agent.h"
+
+1482112913 source:e:\fci\programming labs\maze part 2 (id-20140046)\room.cpp
+	"room.h"
+	<iostream>
+
+1481979888 source:e:\fci\programming labs\maze part 2 (id-20140046)\main.cpp
+	"room.h"
+	"agent.h"
+	"grue.h"
+	"player.h"
+	<bits/stdc++.h>
+	<string>
+
+1482141635 source:e:\fci\programming labs\maze part 2 (id-20140046)\object.cpp
+	"object.h"
+	<iostream>
+
+1482226550 e:\fci\programming labs\maze part 2 (id-20140046)\object.h
+	<string>
+
+1482141591 source:e:\fci\programming labs\maze part 2 (id-20140046)\furniture.cpp
+	"furniture.h"
+	<iostream>
+
+1482141591 e:\fci\programming labs\maze part 2 (id-20140046)\furniture.h
+	<string>
+	"object.h"
+
+1482141706 source:e:\fci\programming labs\maze part 2 (id-20140046)\prop.cpp
+	"prop.h"
+	<iostream>
+	<string>
+
+1482141706 e:\fci\programming labs\maze part 2 (id-20140046)\prop.h
+	<string>
+	"object.h"
+
+1482141706 source:e:\fci\programming labs\maze part 2 (id-20140046)\keyobject.cpp
+	"keyobject.h"
+	<iostream>
+
+1482141706 e:\fci\programming labs\maze part 2 (id-20140046)\keyobject.h
+	<string>
+	"object.h"
+
+1482644647 source:c:\users\hp\desktop\maze part 2 (id-20140046)\agent.cpp
+	"agent.h"
+
+1482668016 c:\users\hp\desktop\maze part 2 (id-20140046)\agent.h
+	"room.h"
+
+1482659639 c:\users\hp\desktop\maze part 2 (id-20140046)\room.h
+	<string>
+	"agent.h"
+	"object.h"
+
+1482654317 c:\users\hp\desktop\maze part 2 (id-20140046)\object.h
+	<string>
+	"room.h"
+
+1482667175 source:c:\users\hp\desktop\maze part 2 (id-20140046)\grue.cpp
+	"grue.h"
+	<iostream>
+	<cstdlib>
+	"room.h"
+
+1482634689 c:\users\hp\desktop\maze part 2 (id-20140046)\grue.h
+	"agent.h"
+	"room.h"
+
+1482141706 source:c:\users\hp\desktop\maze part 2 (id-20140046)\keyobject.cpp
+	"keyobject.h"
+	<iostream>
+
+1482141706 c:\users\hp\desktop\maze part 2 (id-20140046)\keyobject.h
+	<string>
+	"object.h"
+
+1482667226 source:c:\users\hp\desktop\maze part 2 (id-20140046)\main.cpp
+	"room.h"
+	"agent.h"
+	"grue.h"
+	"player.h"
+	<bits/stdc++.h>
+	<string>
+
+1482653163 c:\users\hp\desktop\maze part 2 (id-20140046)\player.h
+	"agent.h"
+
+1482654421 source:c:\users\hp\desktop\maze part 2 (id-20140046)\object.cpp
+	"object.h"
+	<iostream>
+
+1482668391 source:c:\users\hp\desktop\maze part 2 (id-20140046)\player.cpp
+	"player.h"
+	<iostream>
+
+1482662513 source:c:\users\hp\desktop\maze part 2 (id-20140046)\prop.cpp
+	"prop.h"
+	<iostream>
+	<string>
+
+1482662513 c:\users\hp\desktop\maze part 2 (id-20140046)\prop.h
+	<string>
+	"object.h"
+
+1482653437 source:c:\users\hp\desktop\maze part 2 (id-20140046)\room.cpp
+	"room.h"
+	<iostream>
+
+1482662513 source:c:\users\hp\desktop\maze part 2 (id-20140046)\furniture.cpp
+	"furniture.h"
+	<iostream>
+	"room.h"
+	"object.h"
+
+1482662513 c:\users\hp\desktop\maze part 2 (id-20140046)\furniture.h
+	<string>
+	"object.h"
+	"room.h"
+
